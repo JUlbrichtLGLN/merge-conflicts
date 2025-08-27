@@ -1,4 +1,4 @@
-image: alpine:12345
+image: alpine:abcdefg
 test123
 test234
 test345678
